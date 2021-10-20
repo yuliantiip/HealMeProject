@@ -297,12 +297,13 @@ header .search-bar-container label:hover {
 }
 
 .about .row .image img {
-    height: 70vh;
-    width: 50vw;
+    height: 50vh;
+    width: 35vw;
 }
 
 .about .row .content {
     padding-left: 5rem;
+    padding-right: 5rem;
 }
 
 .about .row .content h3 {
@@ -315,6 +316,7 @@ header .search-bar-container label:hover {
     color: black;
     padding: 1rem 0;
     text-transform: none;
+    text-align: justify;
 }
 /* About section end */
 
@@ -477,8 +479,9 @@ header .search-bar-container label:hover {
 }
 
 .contact .row .image img {
-    width: 50vw;
-    height: 70vh;
+    width: 35vw;
+    height: 60vh;
+    padding-bottom: 5rem;
 }
 
 .contact .row .form-container {
@@ -628,8 +631,8 @@ header .search-bar-container label:hover {
     }
 
     .about .row .image img {
-        height: 60vh;
-        width: 90vw;
+        height: 40vh;
+        width: 80vw;
     }
 
     .about .row .content {
@@ -641,8 +644,8 @@ header .search-bar-container label:hover {
     }
 
     .contact .row .image img {
-        height: 60vh;
-        width: 90vw;
+        height: 50vh;
+        width: 80vw;
     }
 
     .contact .row .form-container {
