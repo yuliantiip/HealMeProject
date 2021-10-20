@@ -455,6 +455,7 @@ header .search-bar-container label:hover {
     color: darkslategrey;
     font-size: 1.5rem;
     padding: 1rem 0;
+    text-transform: none;
 }
 
 .review .box .stars i {
