@@ -311,11 +311,10 @@ header .search-bar-container label:hover {
 }
 
 .about .row .content p {
-    font-size: 1rem;
+    font-size: .7rem;
     color: black;
     padding: 1rem 0;
     text-transform: none;
-    text-align: justify;
 }
 /* About section end */
 
